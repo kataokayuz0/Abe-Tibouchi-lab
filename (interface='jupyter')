@@ -1,0 +1,17 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "bb5520ab",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "notebook(interface='jupyter')"
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
